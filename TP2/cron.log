@@ -1,0 +1,51 @@
+==8199== {  daemon.c:191} [Tue Jan 29 09:12:41 2019]  Up and running.
+==8671== {  daemon.c:191} [Tue Jan 29 09:19:11 2019]  Up and running.
+==8867== {  daemon.c:191} [Tue Jan 29 09:21:05 2019]  Up and running.
+==9005== {  daemon.c:191} [Tue Jan 29 09:22:57 2019]  Up and running.
+==9269== {  daemon.c:191} [Tue Jan 29 09:25:21 2019]  Up and running.
+==10587== {  daemon.c:192} [Tue Jan 29 09:41:35 2019]  Up and running.
+==10587== {  daemon.c:168} [Tue Jan 29 09:42:24 2019]  Exiting.
+==10587== {  daemon.c: 80} [Tue Jan 29 09:42:24 2019]  * Deleting event list.
+==10587== {  daemon.c: 74} [Tue Jan 29 09:42:24 2019]  * Deleting lock file.
+==10587== {  daemon.c: 85} [Tue Jan 29 09:42:24 2019]  * Closing log file.
+==11600== {  daemon.c:196} [Tue Jan 29 09:55:15 2019]  Up and running.
+==11600== {  daemon.c:170} [Tue Jan 29 09:55:28 2019]  Exiting.
+==11600== {  daemon.c: 80} [Tue Jan 29 09:55:28 2019]  * Deleting event list.
+==11600== {  daemon.c: 74} [Tue Jan 29 09:55:28 2019]  * Deleting lock file.
+==11600== {  daemon.c: 85} [Tue Jan 29 09:55:28 2019]  * Closing log file.
+==11930== {  daemon.c:196} [Tue Jan 29 09:58:26 2019]  Up and running.
+==11930== {  daemon.c:170} [Tue Jan 29 09:58:38 2019]  Exiting.
+==11930== {  daemon.c: 80} [Tue Jan 29 09:58:38 2019]  * Deleting event list.
+==11930== {  daemon.c: 74} [Tue Jan 29 09:58:38 2019]  * Deleting lock file.
+==11930== {  daemon.c: 85} [Tue Jan 29 09:58:38 2019]  * Closing log file.
+==12311== {  daemon.c:196} [Tue Jan 29 10:03:14 2019]  Up and running.
+==12311== {  daemon.c:139} [Tue Jan 29 10:03:21 2019]  Events loaded.
+==12311== {  daemon.c:100} [Tue Jan 29 10:03:21 2019]  Next event in 15461 sec.
+==12311== {  daemon.c:170} [Tue Jan 29 10:04:49 2019]  Exiting.
+==12311== {  daemon.c: 80} [Tue Jan 29 10:04:49 2019]  * Deleting event list.
+==12311== {  daemon.c: 74} [Tue Jan 29 10:04:49 2019]  * Deleting lock file.
+==12311== {  daemon.c: 85} [Tue Jan 29 10:04:49 2019]  * Closing log file.
+==12716== {  daemon.c:196} [Tue Jan 29 10:09:11 2019]  Up and running.
+==12716== {  daemon.c:170} [Tue Jan 29 10:09:21 2019]  Exiting.
+==12716== {  daemon.c: 80} [Tue Jan 29 10:09:21 2019]  * Deleting event list.
+==12716== {  daemon.c: 74} [Tue Jan 29 10:09:21 2019]  * Deleting lock file.
+==12716== {  daemon.c: 85} [Tue Jan 29 10:09:21 2019]  * Closing log file.
+==12735== {  daemon.c:196} [Tue Jan 29 10:09:21 2019]  Up and running.
+==12735== {  daemon.c:170} [Tue Jan 29 10:10:03 2019]  Exiting.
+==12735== {  daemon.c: 80} [Tue Jan 29 10:10:03 2019]  * Deleting event list.
+==12735== {  daemon.c: 74} [Tue Jan 29 10:10:03 2019]  * Deleting lock file.
+==12735== {  daemon.c: 85} [Tue Jan 29 10:10:03 2019]  * Closing log file.
+==12952== {  daemon.c:196} [Tue Jan 29 10:12:09 2019]  Up and running.
+==12952== {  daemon.c:139} [Tue Jan 29 10:12:27 2019]  Events loaded.
+==12952== {  daemon.c:100} [Tue Jan 29 10:12:27 2019]  Next event in 14915 sec.
+==12952== {  daemon.c:170} [Tue Jan 29 10:13:02 2019]  Exiting.
+==12952== {  daemon.c: 80} [Tue Jan 29 10:13:02 2019]  * Deleting event list.
+==12952== {  daemon.c: 74} [Tue Jan 29 10:13:02 2019]  * Deleting lock file.
+==12952== {  daemon.c: 85} [Tue Jan 29 10:13:02 2019]  * Closing log file.
+==13190== {  daemon.c:196} [Tue Jan 29 10:14:56 2019]  Up and running.
+==13190== {  daemon.c:139} [Tue Jan 29 10:14:56 2019]  Events loaded.
+==13190== {  daemon.c:100} [Tue Jan 29 10:14:56 2019]  Next event in 14766 sec.
+==13190== {  daemon.c:170} [Tue Jan 29 10:15:03 2019]  Exiting.
+==13190== {  daemon.c: 80} [Tue Jan 29 10:15:03 2019]  * Deleting event list.
+==13190== {  daemon.c: 74} [Tue Jan 29 10:15:03 2019]  * Deleting lock file.
+==13190== {  daemon.c: 85} [Tue Jan 29 10:15:03 2019]  * Closing log file.
